@@ -16,3 +16,5 @@ According to the current needs, this project have already meet the requirements.
 1. State management: Currently using hooks. With the increase of page number, the prop method may not be enough. State management dependencies like Redux will be necessary.
 2. Individual HTTP request service module: Currently, requests are only sent once and allocate in the screen component that they are being use. 
 3. Global layer features such as popup, toaster, notification need to be added to improve the UX and de consitency of the project.
+4. Error handling.
+5. Unit test.
