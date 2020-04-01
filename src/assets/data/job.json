@@ -1,0 +1,28 @@
+{
+    "jobId": "",
+    "jobTitle": {
+        "name": "",
+        "imageUrl": ""
+    },
+    "company": {
+        "name": "",
+        "address": {
+            "formattedAddress": "",
+            "zoneId": ""
+        },
+        "reportTo": {
+            "name": "",
+            "phone": ""
+        }
+    },
+    "wagePerHourInCents": 0,
+    "milesToTravel": 0,
+    "shifts": [
+        {
+            "startDate": "",
+            "endDate": ""
+        }
+    ],
+    "branch": "",
+    "branchPhoneNumber": ""
+}

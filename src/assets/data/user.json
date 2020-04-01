@@ -1,0 +1,12 @@
+{
+    "address": {
+        "formattedAddress": "",
+        "zoneId": ""
+    },
+    "email": "",
+    "firstName": "",
+    "lastName": "",
+    "maxJobDistance": 0,
+    "phoneNumber": "",
+    "workerId": ""
+}
