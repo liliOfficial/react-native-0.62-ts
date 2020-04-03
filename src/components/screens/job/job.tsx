@@ -1,6 +1,6 @@
 import React from 'react';
 import moment from 'moment';
-import { StyleSheet, View, Image, Text, ScrollView, SafeAreaView, StatusBar } from 'react-native';
+import { StyleSheet, View, Image, Text, ScrollView, SafeAreaView } from 'react-native';
 import mainStyle from '../../../assets/styles/globleStyle';
 
 import { Job } from '../../../Interface/interface';

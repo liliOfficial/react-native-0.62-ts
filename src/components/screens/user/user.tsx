@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavigationStackProp } from 'react-navigation-stack';
-import { ScrollView, StyleSheet, Text, View, TouchableHighlight, SafeAreaView } from 'react-native';
+import { ScrollView, StyleSheet, Text, View, SafeAreaView } from 'react-native';
 
 import mainStyle from '../../../assets/styles/globleStyle';
 import PageHeader from '../../common/pageHeader';
